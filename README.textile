@@ -4,7 +4,7 @@ Description: Creates a slider out of a list of <li> elements, randomizes them, a
 
 Usage: 
 
-	$('#gallery').imgSwap({
+	$('#gallery').randomSlider({
 		'randomize'	: 'true'
 	});
 

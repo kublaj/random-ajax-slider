@@ -5,7 +5,7 @@
  *
  * Usage: 
  *
- *	$('#gallery').imgSwap({
+ *	$('#gallery').randomSlider({
  *		'randomize'	: 'true'
  *	});
  *
