@@ -1,0 +1,18 @@
+h1. Random Ajax Slider
+
+Description: Creates a slider out of a list of <li> elements, randomizes them, and ajax loads them based on how likely they are to appear in the viewport.
+
+Usage: 
+
+	$('#gallery').imgSwap({
+		'randomize'	: 'true'
+	});
+
+Defaults:
+
+    'randomize'	: 'true'
+
+
+Dual licensed under MIT and GNU General Public License version 3 (GPLv3)
+http://www.opensource.org/licenses
+Launch  : October 2010
